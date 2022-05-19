@@ -73,6 +73,10 @@ Sau đó mở công cụ phát triển (development tool) và chạy ứng dụn
 
 *Có thể tham khảo thêm tại [đây](https://flutter.dev/docs/get-started) (Flutter documentation).*
 
+## **Demo**
+
+https://www.youtube.com/watch?v=YurYGJ7N7Cc&t=6s
+
 ## **Giao diện**
  <img width="200" src=".\resources\ui\1.PNG"></a>
  <img width="200" src=".\resources\ui\2.PNG"></a>
